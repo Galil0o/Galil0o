@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 
+Web developer  
+HTML • CSS • JavaScript  
+Contact: LinkedIn | Email
+
 
 <!--
 **Galil0o/Galil0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
