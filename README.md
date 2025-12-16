@@ -1,7 +1,7 @@
 ## Hi there 👋 
 Web developer  
 HTML • CSS • JavaScript  
-Contact: LinkedIn | Email
+Contact: www.linkedin.com/in/yassine-abdeljalil-092869366 
 
 
 <!--
